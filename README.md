@@ -34,3 +34,44 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Overview
+
+This Recipe App provides an easy way to explore and learn about various recipes. It offers a list of ingredients, step-by-step procedures, and links to video tutorials for each recipe. The app was modified for a hackathon with a focus on simplicity and learning, making it beginner-friendly.
+
+## Features
+
+- Displays ingredients for different recipes.
+- Step-by-step instructions to prepare meals.
+- Links to YouTube videos for visual guidance.
+- Simple and user-friendly interface.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd REPO_NAME
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install  # or any specific installation command based on the project
+   ```
+
+4. Run the project:
+
+   ```bash
+   npm start  # or the appropriate command to start the project
+   ```
+## Original Project
+
+This project is based on [Recipe](https://github.com/douglasmaringa/recipe) by [douglasmaringa](https://github.com/douglasmaringa). Full credit goes to them for the original base version.
